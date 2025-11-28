@@ -44,4 +44,7 @@
 # 🧠 Conclusión 📚
 #### El proyecto Musicple permitió demostrar cómo una herramienta accesible como Teachable Machine puede utilizarse para crear modelos de inteligencia artificial útiles y relacionados con las emociones humanas. Aunque el modelo funciona mejor con canciones cuya emoción está bien marcada, sus resultados son adecuados para un MVP y muestran un gran potencial para seguir mejorándolo. Este tipo de tecnología podría aplicarse en plataformas de música, proyectos escolares, aplicaciones de bienestar emocional o incluso terapias. En general, Musicple es un primer paso para integrar la inteligencia artificial con la música de una manera creativa y práctica.
 
+# Link Video Youtube
+##### https://youtu.be/zgLXqS72CE8?si=axiarZ5GVjmS9P9c
+
 
