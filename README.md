@@ -37,7 +37,7 @@
 # 🛠️ Objetivos Específicos
 #### Recolectar ejemplos de audio que representen cada emoción (feliz, triste, relajante y energética) para entrenar correctamente el modelo.
 #### Entrenar un modelo de audio en Teachable Machine que aprenda a diferenciar patrones sonoros relacionados con cada emoción.
-#### Exportar e implementar el modelo en una página web utilizando HTML y JavaScript para probarlo en tiempo real.
+#### Exportar e implementar el modelo en una página web utilizando HTML.
 #### Realizar pruebas con canciones reales de distintos géneros musicales para validar el desempeño del modelo.
 #### Evaluar los resultados del sistema identificando aciertos, errores y áreas de mejora para futuras versiones del proyecto.
 
