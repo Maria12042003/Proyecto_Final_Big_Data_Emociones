@@ -6,6 +6,31 @@
 # 💬 Introducción
 #### La música forma parte de la vida diaria de muchas personas y tiene la capacidad de transmitir emociones como alegría, tristeza, energía o relajación. Por eso, en este proyecto decidí utilizar Teachable Machine para crear un modelo capaz de identificar la emoción principal de una canción analizando su sonido. La idea surge de que hoy en día la tecnología y la inteligencia artificial se pueden usar no solo para entretenimiento, sino también para mejorar el bienestar emocional de las personas. Con este modelo es posible clasificar canciones automáticamente y conocer el tipo de ánimo que proyectan, lo cual puede servir para crear playlists personalizadas, apoyar terapias emocionales o simplemente entender mejor cómo nos hace sentir la música.
 
+# ✅ Requisitos
+#### Para ejecutar el proyecto necesitas:
+#### Un navegador web (Chrome, Edge, Firefox, etc.).
+#### Conexión a internet (recomendado).
+#### Micrófono (si vas a usar la opción de grabar audio en vivo).
+
+
+# 🚀 Instrucciones de instalación
+#### Clonar o descargar el repositorio
+#### Verificar los archivos del modelo
+#### Revisar rutas en el HTML
+
+# ▶️ Instrucciones de ejecución
+#### Abre la carpeta del proyecto.
+#### Haz doble clic en musica.html.
+#### El navegador se abrirá con la página de Musicple.
+#### Si la página usa micrófono, acepta el permiso cuando el navegador te lo pida.
+#### Prueba subiendo un audio o usando el micrófono (según como lo configuraste).
+
+# 🧪 Cómo probar el modelo
+#### Usa canciones o fragmentos de audio que sean: Claramente felices, tristes, relajantes o energéticos.
+#### Observa en la página qué emoción detecta el modelo.
+#### Puedes hacer varias pruebas con diferentes géneros (pop, balada, electrónica, instrumental, etc.).
+
+
 # 📋 Objetivo General
 #### Desarrollar un modelo de inteligencia artificial con Teachable Machine que sea capaz de identificar la emoción predominante de una canción (feliz, triste, relajante o energética) mediante el análisis de su audio.
 
